@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:33:48.696326
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:20
 #+TITLE: 金剛薩埵說頻那夜迦天成就儀軌經
 #+PROPERTY: CBETA_ID T21n1272
 #+PROPERTY: ID KR6j0503
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1272
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0503_T_000-0306b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0503_T_003-0314b> 
 #+PROPERTY: JUAN 3
 ¶
-
- 金剛薩埵說頻那夜迦天成就儀¶
+金剛薩埵說頻那夜迦天成就儀¶
 軌經卷第三¶
 ¶
 西天譯經三藏朝散大夫試光祿卿¶
