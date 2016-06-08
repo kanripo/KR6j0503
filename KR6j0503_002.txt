@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:33:48.663804
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:20
 #+TITLE: 金剛薩埵說頻那夜迦天成就儀軌經
 #+PROPERTY: CBETA_ID T21n1272
 #+PROPERTY: ID KR6j0503
